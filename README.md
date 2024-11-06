@@ -51,3 +51,24 @@ I'm passionate about leveraging technology to solve real-world challenges. My ex
 I am eager to apply my skills, where I can collaborate with talented teams and contribute to impactful projects. As a dedicated learner, I stay updated on the latest trends and tools in the field, and I thrive in open-source environments. I welcome the opportunity to connect and explore potential collaborations!
 
 ---
+### 🌟 My Projects
+
+- **[inventory-management-system]([https://github.com/yourusername/project1](https://github.com/NadaAbuIssa/inventory-management-system))**  
+  an inventory management system designed to track and manage inventory.  
+  **Tags:** `#Spring boot` `#java` `#postman` `#swagger hub`
+
+- **[Communicate-Data-Findings]([Communicate-Data-Findings](https://github.com/NadaAbuIssa/Communicate-Data-Findings))**  
+  Udacity Nanodegree project.  
+  **Tags:** `#Python` `#jupyter notebook` `#DataAnalysis`
+
+- **[DatasetPreprocessing]([https://github.com/yourusername/project3](https://github.com/NadaAbuIssa/DatasetPreprocessing))**  
+  Dataset Preprocessing using shell scripting.  
+  **Tags:** `#Shell` `#bash` `#terminal`
+
+- **[Gaming Cafe]([https://github.com/yourusername/project4](https://github.com/NadaAbuIssa/Data-Base-Project))**  
+  Gaming Cafe App for data abse course.  
+  **Tags:** `#Java` `#MySql` `#client-server`
+
+- **[cloud services]([https://github.com/yourusername/project5](https://github.com/NadaAbuIssa/Second-Task))**  
+  A website theme for cloud services company.  
+  **Tags:** `#Bootstrap` `#front-end` `#Design`
