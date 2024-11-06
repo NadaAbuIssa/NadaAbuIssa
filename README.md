@@ -1,11 +1,11 @@
-# 🌈 Hi there! I'm Nada AbuIssa 👩‍💻
+#  Hi there! I'm Nada AbuIssa 👩‍💻
 
 ![Profile views](https://komarev.com/ghpvc/?username=nadaabuissa&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 🌟 **About Me**  
-I'm a passionate Computer Science student at **Birzeit University**. I have a solid background in full-stack development and a keen interest in software development, data analysis, and machine learning.
+I'm a passionate Computer Science student at **Birzeit University**. I have a keen interest in software development, data analysis, and machine learning.
 
 ---
 
