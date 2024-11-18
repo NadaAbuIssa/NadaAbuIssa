@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="./assets/setsuko1.gif" alt="Banner" style="border-radius: 60%;">
+  <img src="./assets/Setsuko.gif" alt="Banner" style="border-radius: 60%;">
 </p>
 <p align="center">
-  <img src="./assets/planet.gif" alt="planet" style="border-radius: 60%; float: left; margin-right: 10px; width:70">
     <p align="center" style="font-size: 16px; color: #555;">"This user can't stop telling people she is using Linux 🐧"</p>
 </p>
 
