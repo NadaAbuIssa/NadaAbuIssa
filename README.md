@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Setsuko.gif" alt="Banner" style="border-radius: 60%;">
+  <img src="./assets/setsuko.gif" alt="Banner" style="border-radius: 60%;">
 </p>
 <p align="center">
     <p align="center" style="font-size: 16px; color: #555;">"This user can't stop telling people she is using Linux 🐧"</p>
@@ -16,6 +16,13 @@ I'm a passionate <spane style="font-weight:bold;">Computer Science</spane> stude
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-abuissa-9507bb236/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nadaaboissa@gmail.com)
 
+## 🌐 Click Visit My Website
+
+<p align="center">
+  <a href="https://nadaabuissa.github.io/portfolio/" target="_blank" rel="noreferrer">
+    <img src="./assets/catLogo.png" width=55 alt="Visit My Website"/>
+  </a>
+</p>
 ## 🛠️ Technologies
 
 <img src="./assets/game.gif" alt="game" style="border-radius: 60%; float: left; margin-right: 10px; width:80">
@@ -86,7 +93,7 @@ I'm a passionate <spane style="font-weight:bold;">Computer Science</spane> stude
 
 ---
 
-### 🌟Projects
+### 🌟Some Projects
 
 - **[inventory-management-system](https://github.com/NadaAbuIssa/inventory-management-system)**  
   an inventory management system designed to track and manage inventory.  
