@@ -23,7 +23,7 @@ I'm a passionate <spane style="font-weight:bold;">Computer Science</spane> stude
     <img src="./assets/catLogo.png" width=55 alt="Visit My Website"/>
   </a>
 </p>
-## 🛠️ Technologies
+🛠️ Technologies
 
 <img src="./assets/game.gif" alt="game" style="border-radius: 60%; float: left; margin-right: 10px; width:80">
 
