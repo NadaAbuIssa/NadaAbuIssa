@@ -95,6 +95,12 @@ I'm a passionate <spane style="font-weight:bold;">Computer Science</spane> stude
 
 ### 🌟Some Projects
 
+- **[Dynamic Web Application with JSONPlaceholder API Integration](https://nadaabuissa.github.io/Third-Project/second_task/login.html)**  
+   integrated with [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) for user registration, login, post viewing, commenting, updating, and album browsing functions, offering a seamless user experience while exploring various HTTP methods and data relationships.  
+   **Tags:** `#web` `#java script` `#postman` `#JSON Placeholder`
+
+  > you can find users data to log in [here](https://jsonplaceholder.typicode.com/users)
+
 - **[inventory-management-system](https://github.com/NadaAbuIssa/inventory-management-system)**  
   an inventory management system designed to track and manage inventory.  
   **Tags:** `#Spring boot` `#java` `#postman` `#swagger hub`
